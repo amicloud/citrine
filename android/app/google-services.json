@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931760436339",
+    "project_id": "citrine-303123",
+    "storage_bucket": "citrine-303123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931760436339:android:c4cce5b0aba41f7d2d2606",
+        "android_client_info": {
+          "package_name": "com.citrine.codename"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931760436339-caeebs945t2rldu6su323nm31hkgi935.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoH9vRdptdeFNZCLNiNEJ2o0siA6WTJZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931760436339-caeebs945t2rldu6su323nm31hkgi935.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
