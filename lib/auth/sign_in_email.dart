@@ -18,14 +18,11 @@ class _SignInEmailState extends State<SignInEmail> {
   final emailEditController = TextEditingController();
   final passwordEditController = TextEditingController();
   bool _showingModal = false;
-  bool _showEmailError = false;
-  bool _showPasswordError = false;
 
   @override
   Widget build(BuildContext context) {
     if (_showingModal) {
       return SimpleDialog(
-          // title: Text("Login with your email"),
           children: <Widget>[
             Text("Sign in with your email and password"),
             Form(

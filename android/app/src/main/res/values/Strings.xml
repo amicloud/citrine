@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Codename Citrine</string>
+    <string name="facebook_app_id">238173011278620</string>
+    <string name="fb_login_protocol_scheme">fb238173011278620</string>
+</resources>
